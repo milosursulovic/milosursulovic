@@ -54,10 +54,3 @@ I keep real IT infrastructure running for a healthcare institution by day, ship 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### GitHub stats
-
-![Miloš's GitHub stats](https://github-readme-stats.vercel.app/api?username=milosursulovic&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milosursulovic&layout=compact&theme=dark&hide_border=true)
