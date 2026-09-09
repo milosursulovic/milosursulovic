@@ -10,7 +10,7 @@ I keep real IT infrastructure running for a healthcare institution by day, ship 
 - 🖥 Day job: IT infrastructure & network engineering @ Bor Health Center
 - 🌐 Also into: Windows/Linux administration, networking (TCP/IP, VLANs, firewalls), embedded (AVR)
 - 📫 Contact: [milosursulovic2696@gmail.com](mailto:milosursulovic2696@gmail.com)
-- 📄 CV: [github.com/milosursulovic/cv](https://github.com/milosursulovic/cv)
+- 🌍 Website: [milosursulovic.com](https://milosursulovic.com)
 
 ---
 
