@@ -1,4 +1,4 @@
-# Hi, I'm Miloš 👋
+# Hi, I'm Milos 👋
 
 Full-stack & Systems Engineer based in Bor, Serbia.
 
