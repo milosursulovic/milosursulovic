@@ -22,7 +22,7 @@ I keep real IT infrastructure running for a healthcare institution by day, ship 
 | [net-desk](https://github.com/milosursulovic/net-desk) | Network/hardware inventory tool grown into a full RMM system — Windows agent, remote commands, alerting, auto-update |
 | [nebula](https://github.com/milosursulovic/nebula) | Miniature cloud infrastructure platform in Go — VM lifecycle, scheduling, networking, job orchestration |
 | [vortex](https://github.com/milosursulovic/vortex) | L4/L7 (TCP/HTTP) load balancer built from scratch in Go |
-| [shop-daily](https://github.com/milosursulovic/shop-daily) | E-commerce Android app — Jetpack Compose, Clean Architecture, MVVM |
+| [myos](https://github.com/milosursulovic/myos) | Bare-metal OS from scratch for ATmega328P (Arduino Uno) — custom kernel, UART shell, GPIO, timers, interrupts, memory management, scheduler, bootloader |
 | [vnc](https://github.com/milosursulovic/vnc) | Minimal VNC (RFB 3.8) implementation for Windows in C |
 
 ---
